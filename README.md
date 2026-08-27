@@ -1,7 +1,7 @@
 # Predicción de Churn en un Operador de Telecomunicaciones Móviles
 
 Proyecto grupal — Caso de analítica de datos, Ciencia de Datos, Pontificia Universidad Javeriana.
-** 1er lugar en la competencia de Kaggle del curso**, con un AUC-ROC de **0.8881**.
+1er lugar en la competencia de Kaggle del curso, con un AUC-ROC de 0.8881.
 
 Autores: Sharid M. Rodríguez Wilches, Laura C. Ariza Ortiz, Juan D. Manosalva Duarte, Juan C. García Diaz.
 
