@@ -1,4 +1,3 @@
-# prediccion-churn-kaggle
 # Predicción de Churn en un Operador de Telecomunicaciones Móviles
 
 Proyecto grupal — Caso de analítica de datos, Ciencia de Datos, Pontificia Universidad Javeriana.
